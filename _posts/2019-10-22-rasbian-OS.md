@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-categories: markdown
-tags: [test]
+title: 라즈비안 OS 용량 줄이기
+subtitle: SD Card 용량 줄이기
+categories: 임베디드
+tags: [라즈베리파이]
 ---
 
 You can write regular [markdown](https://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
