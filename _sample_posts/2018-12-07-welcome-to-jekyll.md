@@ -44,7 +44,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-gh]: https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 
-$ a \* b = c ^ b $
+$ a * b = c ^ b $
 
 $ 2^{\frac{n-1}{3}} $
 
@@ -71,4 +71,8 @@ p1 = Person("John", 36)
 
 print(p1.name)
 print(p1.age)
+```
+
+```shell
+foo@bar: ~$ ps aux | grep "asdf"
 ```
