@@ -159,7 +159,7 @@ defaults:
   home:
     heading: "Your awesome heading3"
     subheading: "Your awesome subheading3"
-    banner: "Your image url"
+    banner: "assets/images/banners/shit.png"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
