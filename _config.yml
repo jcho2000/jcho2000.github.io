@@ -25,7 +25,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Jayem's Blog
-email: jcho2006@naver.com
+email: jayem@jayem.com
 author: Choi Junmin
 
 # Copyright setting
@@ -155,11 +155,11 @@ header_pages:
   # - home.html
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
-#     banner: "Your image url"
+defaults:
+  home:
+    heading: "Your awesome heading3"
+    subheading: "Your awesome subheading3"
+    banner: "Your image url"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
