@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    
+    <url>
+        <loc>https://jayem.kr/development/2019/10/22/post.html</loc>
+        
+        <lastmod>2019-10-22T00:00:00+00:00</lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.5</priority>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://jayem.kr/jekyll/2018/12/07/welcome-to-jekyll.html</loc>
+        
+        <lastmod>2018-12-07T00:00:00+00:00</lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.5</priority>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://jayem.kr/misc/2016/05/19/super-short-article.html</loc>
+        
+        <lastmod>2016-05-19T00:00:00+00:00</lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.5</priority>
+        
+    </url>
+    
+    
+    
+    <url>
+        <loc>https://jayem.kr/markdown/2016/01/01/another-test-markdown.html</loc>
+        
+        <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+        
+        
+        <changefreq>monthly</changefreq>
+        
+        
+        <priority>0.5</priority>
+        
+    </url>
+    
+    
+</urlset>
