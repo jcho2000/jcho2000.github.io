@@ -157,8 +157,8 @@ header_pages:
 # Page default value
 defaults:
   home:
-    heading: "Your awesome heading3"
-    subheading: "Your awesome subheading3"
+    heading: "JM's weB-Log"
+    subheading: "일상 개발 기록"
     banner: "assets/images/banners/dog1.jpg"
 
 # Banner default settings
